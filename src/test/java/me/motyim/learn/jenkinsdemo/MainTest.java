@@ -31,7 +31,8 @@ public class MainTest {
 
         String output = outContent.toString().trim();
         assertThat(output, is(expectedOutput));
-     }
+
+    }
 
 
     @After

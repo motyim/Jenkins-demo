@@ -11,6 +11,7 @@ import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.*;
 
 public class MainTest {
+
     private final ByteArrayOutputStream outContent = new ByteArrayOutputStream();
 
 
@@ -22,7 +23,6 @@ public class MainTest {
 
     @Test
     public void testCase(){
-
 
         String expectedOutput  = "Welcome in Jenkins Demo";
 

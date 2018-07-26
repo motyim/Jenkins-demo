@@ -1,2 +1,2 @@
  # Jenkins Demo 
-simple repo to make an CI on it :) 
+simple repo to make demo for CI on it :) 
